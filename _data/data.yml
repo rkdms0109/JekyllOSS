@@ -4,7 +4,7 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -14,18 +14,18 @@ sidebar:
 
   # Sidebar links
   email: lucxeun0109@gmail.com
-  phone: 010 4805 7385
+  phone: 010-4805-7385
   timezone: South Korea/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  github: https://github.com/rkdms0109
+  telegram: _lucxeun_05
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter: None
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -74,8 +74,8 @@ education:
   title: Education
   info:
   - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+    university: Kwnagwoon university in Seoul
+    time: 2014 - 2017
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -140,9 +140,9 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: Excel
+    start: 2024
+    end: 2024
     organization: Microsoft
     credentialid: 111-222
     credentialurl: www.google.com
@@ -264,23 +264,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Javascript
     level: 98%
 
-  - name: Angular
+  - name: C/C#
     level: 98%
 
   - name: HTML5 & CSS
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Excel
+    level: 90%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Illustrator
+    level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
