@@ -73,20 +73,16 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: Kwnagwoon university in Seoul
-    time: 2014 - 2017
+  - degree: Student
+    school: Kyunghee Girls High School
+    time: 2021 - 2024
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      I learned the language and basic knowledge related to artificial intelligence throughout my three years in high school.
+        - FTC Robot Championship
+        - Automatic Drivemode Contest
+  - degree: Data Science in Information Convergence 
+    university: Kwangwoon University
+    time: 2024 - 2028
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,9 +95,9 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Just a student
+    time: 2027 - 2028
+    company: Kwangwoon University
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -114,7 +110,7 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
+  - role: TA in Information Convergence
     time: 2014 - 2015
     company: Google, London
     details: |
