@@ -64,7 +64,8 @@ sidebar:
 career-profile:
   title: Self Introduction
   summary: |
-    Hi, I'm gaeun lee. I want to be a .. 
+    Hi, I'm gaeun lee. I want to be a great developer in Korea. 
+    I'm good at computing 
 education:
   title: Education
   info:
@@ -72,7 +73,6 @@ education:
     university: Kyunghee Girls High School
     time: 2021 - 2024
     details: |
-      I learned the language and basic knowledge related to artificial intelligence throughout my three years in high school.
         - FTC Robot Championship
         - Automatic Drivemode Contest
   - degree: Data Science in Information Convergence 
@@ -89,22 +89,22 @@ experiences:
     time: 2024-2025
     company: Kyunghee Girls High School
     details: |
-        - Bullet point
-        - Bullet point
+        - Designing a college entrance to a related department
+        - Recommendations and consultations related to the department
   - role: TA in Information Convergence
     time: 2026-2027
     company: Information Convergence in Kwangwoon University
     details: |
-        - Bullet point
-        - Bullet point
+        - an undergraduate assistant in a department
+        - participation in undergraduate research
   - role: Intern
     time: 2027-2028
     company: Microsoft 
     details: |
-        - Bullet point
-        - Bullet point
+        - AI-equipped Project in Education
+        - 
 
-certifications:
+certifications: 
   title: Certifications
   list:
   - name: Excel
@@ -115,20 +115,8 @@ certifications:
     credentialurl: www.google.com
     credentialname: Google
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
+    name: Git learning
     start: 2019/
     end:
     organization: Microsoft
@@ -136,14 +124,6 @@ certifications:
     credentialurl: www.github.com
     credentialname: Github
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects 
@@ -152,7 +132,7 @@ projects:
   assignments:
   - title: FTC Robot Championship
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Hardware / Software / Design"
 
   - title: Automatic Drive Mode Contest
     link: "#"
@@ -162,18 +142,9 @@ projects:
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
   title: Award
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
   - title: Tempo
     link: "#"
@@ -182,10 +153,6 @@ oss:
   - title: Atom
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 recommendations:
@@ -197,14 +164,7 @@ recommendations:
     role: General Director at example.com
     recommendation: |
       She is a super employee!
-  - person: B
-    email: B@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with her again!
-
-      She is a great employee!
+  
 
 skills:
   title: Skills &amp; Proficiency
