@@ -85,7 +85,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: *Mentor*
+  - role: Mentor
     time: 2024-2025
     company: Kyunghee Girls High School
     details: |
@@ -108,8 +108,8 @@ certifications:
   title: Certifications
   list:
   - name: Excel
-    start: 2024
-    end: 2024
+    start: 2024\
+    end: 2024//
     organization: Microsoft
     credentialid: 111-222
     credentialurl: www.google.com
@@ -129,7 +129,7 @@ certifications:
       justo diam viverra velit, sed rhoncus leo leo eu justo.
       Suspendisse placerat risus ante, sed porta nisi blandit at.
   - name: Git learning
-    start: 2019
+    start: 2019/
     end:
     organization: Microsoft
     credentialid: 111-222
