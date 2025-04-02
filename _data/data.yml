@@ -101,19 +101,14 @@ experiences:
     time: 2027-2028
     company: Microsoft 
     details: |
-        - AI-equipped Project in Education
+        - AI-equipped Project in Education  
         - 
 
 certifications: 
   title: Certifications
   list:
-  - name: Excel
-    start: 2024\
-    end: 2024//
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+    name: Computer Spacialist in Spreadsheet & Database Level - 1
+    end: in 2025
     details: |
 
     name: Git learning
