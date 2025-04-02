@@ -62,18 +62,13 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Self Introduction
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Hi, I'm gaeun lee. I want to be a .. 
 education:
   title: Education
   info:
-  - degree: Student
+  - degree: High School Student
     university: Kyunghee Girls High School
     time: 2021 - 2024
     details: |
@@ -84,13 +79,8 @@ education:
     university: Kwangwoon University
     time: 2024 - 2028
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Study data analyze
+        - Language
 
 experiences:
   title: Experiences
@@ -175,9 +165,9 @@ certifications:
       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Projects
+  title: FTC Robot Championship
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    dfsf in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Velocity
     link: "#hook"
@@ -200,7 +190,7 @@ projects:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-  title: OSS Contributions
+  title: Award
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
