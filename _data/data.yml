@@ -17,15 +17,15 @@ sidebar:
   phone: 010-4805-7385
   timezone: South Korea/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
+  website: https://blog.naver.com/eun_01_09 # Include the full website URL, including "http://" or "https://".
+  linkedin: 
+  xing: 
   github: https://github.com/rkdms0109
-  telegram: _lucxeun_05
+  telegram: 
   gitlab:
   bitbucket:
   bluesky: # Specify your full Bluesky handle
-  twitter: None
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -165,7 +165,7 @@ certifications:
       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Projects
+  title: Projects 
   intro: >
     dfsf in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
@@ -210,20 +210,20 @@ oss:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
+  - person: A
+    email: a@example.com
     phone: 012 345 6789
     role: General Director at example.com
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
+      She is a super employee!
+  - person: B
+    email: B@example.com
     phone: 012 345 6789
     role: General Director at example.com
     recommendation: |
-      I would like to work with Alan Doe again!
+      I would like to work with her again!
 
-      He is a great employee!
+      She is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
@@ -245,7 +245,7 @@ skills:
     level: 90%
 
   - name: Illustrator
-    level: 50%
+    level: 80%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
