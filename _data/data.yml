@@ -107,11 +107,13 @@ experiences:
 certifications: 
   title: Certifications
   list:
-    name: Computer Spacialist in Spreadsheet & Database Level - 1
-    end: in 2025
+  - name: Computer Spacialist in Spreadsheet & Database Level - 1
+    start: 2025/
+    end: /2025
+    organization: Microsoft
     details: |
-
-    name: Git learning
+    
+  - name: Git learning
     start: 2019/
     end:
     organization: Microsoft
@@ -131,23 +133,16 @@ projects:
 
   - title: Automatic Drive Mode Contest
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Winner of Drive Mode "
 
 oss:
   title: Award
   intro: >
   contributions:
-  - title: Tempo
+  
+  - title: Hackton
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Winner of Software Convergence Hackaton"
 
 
 recommendations:
