@@ -57,7 +57,7 @@ sidebar:
       link:
 
 
-    - item: Cooking
+    - item: Running
       link:
 
 
@@ -65,7 +65,7 @@ career-profile:
   title: Self Introduction
   summary: |
     Hi, I'm gaeun lee. I want to be a great developer in Korea. 
-    I'm good at computing 
+    I'm good at computing thinking and I have a lot of idea!!!
 education:
   title: Education
   info:
@@ -80,7 +80,7 @@ education:
     time: 2024 - 2028
     details: |
         - Study data analyze
-        - Language
+        - Graduation Work about AI
 
 experiences:
   title: Experiences
@@ -102,30 +102,18 @@ experiences:
     company: Microsoft 
     details: |
         - AI-equipped Project in Education  
-        - 
 
 certifications: 
   title: Certifications
   list:
   - name: Computer Spacialist in Spreadsheet & Database Level - 1
-    start: 2025/
-    end: /2025
-    organization: Microsoft
-    details: |
-    
-  - name: Git learning
-    start: 2019/
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
+
+  - name: Engineer Information Processing
+ 
 
 projects:
   title: Projects 
   intro: >
-    dfsf in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: FTC Robot Championship
     link: "#hook"
@@ -133,14 +121,14 @@ projects:
 
   - title: Automatic Drive Mode Contest
     link: "#"
-    tagline: "Winner of Drive Mode "
+    tagline: "University Contest"
 
 oss:
   title: Award
   intro: >
   contributions:
   
-  - title: Hackton
+  - title: Hackaton
     link: "#"
     tagline: "Winner of Software Convergence Hackaton"
 
