@@ -95,11 +95,6 @@ experiences:
     time: 2026-2027
     company: Information Convergence in Kwangwoon University
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
   - role: Intern
@@ -159,7 +154,7 @@ projects:
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
+  - title: Automatic Drive Mode Contest
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
