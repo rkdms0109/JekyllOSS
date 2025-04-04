@@ -136,12 +136,12 @@ oss:
 recommendations:
   title: Recommendations
   list:
-  - person: A
-    email: a@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Dr. Kyudong Park
+    email: kdpark@kw.ac.kr
+    phone: +82-2-940-5638
+    role: Professor at Kwangwoon University
     recommendation: |
-      She is a super employee!
+      A highly skilled professional with exceptional problem-solving abilities and a proven track record of delivering outstanding results!
   
 
 skills:
